@@ -23,7 +23,8 @@ in the shell to build `time.so`. Then from Lua, use code like this:
 ## Video
 
 This small repo was built during a video tutorial of the basics of Lua's C
-interface.
+interface. That video is available
+[here](https://www.youtube.com/watch?v=UiZ051A22h8).
 
 ## Notes on the time confusion in the video
 
